@@ -442,8 +442,6 @@
 ## 🎞 최종산출물
 
 - <a href="https://www.youtube.com/watch?v=hAW3b7z9Ifo&feature=youtu.be">중간발표 시연영상 </a>
-- <a href="https://youtu.be/X8WfPhbEnXE">최종발표 코북광고</a>
 - <a href="https://youtu.be/bOfSSnoSVi0">최종발표 시연영상</a>
-- <a href="https://youtu.be/MAfjGcCyYQw">최종발표 UCC</a>
 - <a href="Document/Presentation/Cobook_발표_최종.pdf">최종발표 pdf</a>
 
